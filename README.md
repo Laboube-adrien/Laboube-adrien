@@ -22,9 +22,9 @@
 
 ## FR - Presentation
 
-Je suis **Adrienlbb**, étudiant développeur à l'**IUT de Dijon**.
+Je suis **Adrien laboube**, étudiant développeur à l'**IUT de Dijon**.
 
-J'apprends le développement avec une base solide en **C#**, **SQL** et **Pascal**. Mon objectif est de progresser étape par étape vers des domaines qui m'attirent particulièrement : **l'intelligence artificielle** et **la cybersécurité**.
+J'apprends le développement avec des base en **C#**, **SQL** et **Pascal**. Mon objectif est de progresser étape par étape vers des domaines qui m'attirent particulièrement : **l'intelligence artificielle** et **la cybersécurité**.
 
 J'aime construire, comprendre comment les choses fonctionnent, améliorer mes projets et transformer mes apprentissages en réalisations concrètes.
 
@@ -51,7 +51,7 @@ J'aime construire, comprendre comment les choses fonctionnent, améliorer mes pr
 
 ## EN - About Me
 
-I am **Adrienlbb**, a student developer at **IUT Dijon**.
+I am **Adrien laboube**, a student developer at **IUT Dijon**.
 
 I am currently building strong foundations in **C#**, **SQL** and **Pascal**, while preparing my path toward **artificial intelligence** and **cybersecurity**.
 
